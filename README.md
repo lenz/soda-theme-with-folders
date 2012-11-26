@@ -31,7 +31,7 @@ You can locate your Sublime Text 2 `Packages` directory by using the menu item `
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/lenz/soda-theme/ "Theme - Soda"
+    git clone https://github.com/lenz/soda-theme-with-folders/ "Theme - Soda"
 
 ### Download Manually
 
