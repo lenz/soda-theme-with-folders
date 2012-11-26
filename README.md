@@ -2,10 +2,12 @@
 
 Dark and light custom UI themes for Sublime Text 2.
 
+## Fork
+
 This fork adds mac like folder icons created by Ricci Adams to the Soda Light Theme.
 Soda Dark Theme will follow.
 
-![Soda Light Theme with Folders](http://lenz.github.com/images/screenshots/soda-2-light-theme-with-folders.png?v=2)
+![Soda Light Theme with Folders](http://lenz.github.com/images/screenshots/soda-2-light-theme-with-folders.png?v=3)
 
 ## Design
 
